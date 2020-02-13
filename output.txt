@@ -1,0 +1,78 @@
+cu-engr2-1-13-10:OOD_PE4_Part2 jon$ ./main
+Vector Contents: 
+000
+000
+000
+Please Enter Row Choice: 0 
+
+Please Enter Col Choice: 0
+
+Vector Contents: 
+100
+000
+000
+Please Enter Row Choice: 1
+
+Please Enter Col Choice: 1
+
+Vector Contents: 
+100
+020
+000
+Please Enter Row Choice: 0
+
+Please Enter Col Choice: 1
+
+Vector Contents: 
+110
+020
+000
+Please Enter Row Choice: 0
+
+Please Enter Col Choice: 
+2
+
+Vector Contents: 
+112
+020
+000
+Please Enter Row Choice: 2
+
+Please Enter Col Choice: 0
+
+Vector Contents: 
+112
+020
+100
+Please Enter Row Choice: 1
+
+Please Enter Col Choice: 0
+
+Vector Contents: 
+112
+220
+100
+Please Enter Row Choice: 1
+
+Please Enter Col Choice: 2
+
+Vector Contents: 
+112
+221
+100
+Please Enter Row Choice: 2
+
+Please Enter Col Choice: 2
+
+Vector Contents: 
+112
+221
+102
+Please Enter Row Choice: 2
+
+Please Enter Col Choice: 1
+
+Vector Contents: 
+112
+221
+112
